@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Brian Kernighan",
+    "email": "bkernighan@techfriends.dev",
+    "password": "password01",
+    "jobs": [
+      {
+      "title": "Full Stack Dev" ,
+      "company": "Amazon",
+      "location": "California",
+      "pay": "120000",
+      "date":"09/06/2021"
+      },
+      {
+        "title": "Front End" ,
+        "company": "Apple",
+        "location": "California",
+        "pay": "100000",
+        "date":"09/06/2021"
+        }
+    ]
+  },
+  {
+    "name": "Max Kanat-Alexander",
+    "email": "mkanatalexander@techfriends.dev",
+    "password": "password02",
+    "jobs": [
+      {
+        "title": "Full Stack Dev" ,
+        "company": "Amazon",
+        "location": "California",
+        "pay": "120000",
+        "date":"09/06/2021"
+        },
+        {
+          "title": "Full Stack Dev" ,
+          "company": "Google",
+          "location": "California",
+          "pay": "130000",
+          "date":"09/06/2021"
+          }
+    ]
+  },
+  {
+    "name": "Amiko",
+    "email": "amiko@techfriends.dev",
+    "password": "password03",
+    "jobs": [
+      {
+        "title": "Full Stack Dev" ,
+        "company": "LinkedIn",
+        "location": "California",
+        "pay": "100000",
+        "date":"09/06/2021"
+        },
+        {
+          "title": "Full Stack Dev" ,
+          "company": "Google",
+          "location": "California",
+          "pay": "130000",
+          "date":"09/06/2021"
+          }
+    ]
+  }
+
+]

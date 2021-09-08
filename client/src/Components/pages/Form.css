@@ -1,0 +1,27 @@
+.form-container {
+    background: #161747;
+    color: #E5E8ED;
+    display: flex;
+    padding: 20px;
+    height: 70vh;
+    border-radius: 18px;
+    align-items: center;
+}
+
+.card-body {
+    height: 400px;
+    background: #161747;
+    color: #E5E8ED;
+    padding: 30px;
+}
+
+.btn {
+    width: 200px;
+
+}
+
+.form-btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
